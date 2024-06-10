@@ -10,4 +10,5 @@ Universal Generator Architecture
 ## Related repositories
 
 * [GUT-Requirements](https://github.com/romeolibm/GUT-Requirements)
-* ... 
+* [UPA Universal Parser Architecture](https://github.com/romeolibm/UPA)
+* ...
